@@ -1,0 +1,7 @@
+node_modules
+dist
+.idea
+app/components
+npm-debug.log
+*.dll
+mongoDB
