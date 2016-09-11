@@ -1,0 +1,39 @@
+{
+  "name": "lolDraft",
+  "version": "0.0.0",
+  "authors": [
+    "Nathan Supinski <nathan@supinski.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ],
+  "index": "index.html",
+  "ngapp": "lolDraft",
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-route": "1.5.x",
+    "angular-sanitize": "1.5.x",
+    "angular-bootstrap": "~0.14.3",
+    "bootstrap": "~3.x",
+    "angular-promise-cache": "~0.0.12",
+    "font-awesome": "~4.4.0",
+    "angular-ui-ace": "~0.1.1",
+    "moment-timezone": "~0.5.5",
+    "moment": "~2.14.1",
+    "jquery": "~2.1.3",
+    "angular-touch": "1.5.x",
+    "angular-animate": "1.5.x",
+    "ng-fastclick": "1.0.2",
+    "ngInfiniteScroll": "1.2.0",
+    "angular-messages": "1.5.x",
+    "angular-chart.js": "~0.7.1",
+    "jqwidgets": "*",
+    "checklist-model": "~0.9.0"
+  }
+}
