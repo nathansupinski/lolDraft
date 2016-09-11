@@ -10,6 +10,7 @@
   "devDependencies": {
     "grunt": "latest",
     "grunt-cli":"latest",
+    "bower":"latest",
     "grunt-contrib-jshint": "latest",
     "grunt-contrib-uglify": "latest",
     "grunt-contrib-less": "latest",
